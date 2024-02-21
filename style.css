@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
 	background-color: lightgoldenrodyellow;
 }
 
@@ -49,4 +50,15 @@ img {
 .flex-parent {
 	display: flex;
 	flex-basis: 100%;
+=======
+
+
+
+	background-color: darkblue;
+
+
+}
+p {
+	background-color: none;
+>>>>>>> refs/remotes/origin/main
 }
